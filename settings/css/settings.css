@@ -105,5 +105,6 @@ table.shareAPI td { padding-bottom: 0.8em; }
 	display: none; /* toggled by JS between 'none' and 'inline-block' */
 	position: absolute;
 	left: 185px;
-	width: 139px;
+	width: 140px;
+	margin-top: -7px;
 }
